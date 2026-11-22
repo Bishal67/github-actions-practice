@@ -1,5 +1,4 @@
-#this code is from flask stream in
-# flask app auto linter
+#this code is from flask stream in app
 from flask import Flask, render_template
 app = Flask(__name__)
 
